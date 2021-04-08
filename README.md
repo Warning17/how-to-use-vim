@@ -17,4 +17,5 @@ Pulsamos la tecla **ESC** para salir del modo edición y situarnos en el lugar i
     CTRL+G → Rehacer la última acción
     :earlier 1h → Volvemos el documento a como estaba hace 1 hora
     :later 10m → Ahora avanzamos 30 minutos (a como estaba hace 60-10=50m)
+    
 
