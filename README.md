@@ -7,7 +7,7 @@ Ejemplo de iniciar un archivo en vim --> **vim archivo.py**.
 
 Tecleamos **I** o la tecla **Insert** para pasar del modo comando al modo edición y comenzar a escribir.
 
-Pulsamos la tecla **ESC** para salir del modo edición y situarnos en el buffer inferior en modo normal, y **:**
+Pulsamos la tecla **ESC** para salir del modo edición y situarnos en el lugar inferior en modo normal, y **:**
 
     :q → sale del archivo, si no tenemos cambios sin guardar sale sin más.
     :q! → sale del archivo descartando los cambios no guardados.
