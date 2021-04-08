@@ -12,10 +12,12 @@ Pulsamos la tecla **ESC** para salir del modo edición y situarnos en el lugar i
     :q → sale del archivo, si no tenemos cambios sin guardar sale sin más.
     :q! → sale del archivo descartando los cambios no guardados.
     :w → Esto guarda lo que estamos haciendo, pero no sale de Vim para seguir editando el archivo.
-    :wq,:x → guarda los cambios y sale de Vim.
+    :wq,:x,:w → guarda los cambios y sale de Vim.
     :x → igual que el anterior.
     CTRL+G → Rehacer la última acción
+    :A → Poner el cursor al final de la línea
     :earlier 1h → Volvemos el documento a como estaba hace 1 hora
     :later 10m → Ahora avanzamos 30 minutos (a como estaba hace 60-10=50m)
+    
     
 
