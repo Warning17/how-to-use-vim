@@ -9,4 +9,4 @@ Tecla **I** o la tecla **Insert** para pasar del modo comando al modo edición y
 
 Pulsamos la tecla **ESC** para salir del modo edición.
 
-**ESC** + **:w** Esto lo que hace es escribir o guardar lo que estamos haciendo.
+**ESC** + **:w** Esto guarda lo que estamos haciendo.
