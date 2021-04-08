@@ -3,10 +3,10 @@
 ![Alt text](https://github.com/Warning17/how-to-use-vim/blob/56b5c32a4d3a27d9bab5cd7fa2cfb77e0b19f9a4/vim.png)
 
 
-Ejemplo de iniciar un archivo en vim --> **vim archivo.py**
+Ejemplo de iniciar un archivo en vim --> **vim archivo.py**.
 
-Tecla **I** o la tecla **Insert** para pasar del modo comando al modo edición y comenzar a escribir
+Tecla **I** o la tecla **Insert** para pasar del modo comando al modo edición y comenzar a escribir.
 
-Pulsamos la tecla **ESC** para salir del modo edición
+Pulsamos la tecla **ESC** para salir del modo edición.
 
-**ESC** + **:w** Esto lo que hace es escribir o guardar lo que estamos haciendo
+**ESC** + **:w** Esto lo que hace es escribir o guardar lo que estamos haciendo.
