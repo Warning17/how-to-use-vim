@@ -20,7 +20,8 @@ Pulsamos la tecla **ESC** para salir del modo edición y situarnos en el lugar i
     :set number → Activa la numeración de líneas.
     :set nonumber → Desactiva la numeración de líneas. 
     :g/user: →  filtrar lo que diga user
-    Para cortar o copiar debemos mover el cursor hasta cualquier posición de la línea en cuestión y presionar dos veces la tecla d (dd) o y (yy),
+    Para cortar o copiar debemos mover el cursor hasta cualquier posición de 
+    la línea en cuestión y presionar dos veces la tecla d (dd) o y (yy),
 
     
     
