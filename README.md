@@ -19,6 +19,9 @@ Pulsamos la tecla **ESC** para salir del modo edición y situarnos en el lugar i
     :later 10m → Ahora avanzamos 30 minutos (a como estaba hace 60-10=50m)
     :set number → Activa la numeración de líneas.
     :set nonumber → Desactiva la numeración de líneas. 
+    :g/user: →  filtrar lo que diga user
+    Para cortar o copiar debemos mover el cursor hasta cualquier posición de la línea en cuestión y presionar dos veces la tecla d (dd) o y (yy),
+
     
     
     
